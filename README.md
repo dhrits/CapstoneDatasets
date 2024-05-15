@@ -1,6 +1,6 @@
 
 # Instructions
-Please install all dependencies spefied in `requirements.txt` before moving forward. Datatset download instructions are included in the jupyter notebook `Capstone Datasets Summary.ipybn`.
+Please install all dependencies spefied in `requirements.txt` before moving forward. Datatset download instructions are included in the jupyter notebook `Capstone Datasets Summary.ipynb`.
 
 # Project Summary
 
