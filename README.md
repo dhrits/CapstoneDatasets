@@ -4,7 +4,7 @@ Please install all dependencies spefied in `requirements.txt` before moving forw
 
 # Project Summary
 
-This repository aims to satisfy the capstone data gathering project. Due to the size of the datasets, I have not included them in the repo. Even though it is possible to add them to git lfs, it would not be efficient. The jupyter notebook allows for very easy download of the data though.
+This repository aims to satisfy the capstone data gathering project. Due to the size of the datasets, I have not included them in the repo. However I have uploaded them all to [this S3 bucket](https://dsagar-springboard-capstone-data.s3.us-east-2.amazonaws.com/data.tar.gz). **Please respect the license of the underlying datasets if downloading them. See homepage of each dataset below for license.** 
 
 Tentatively, my project aims to build a web/mobile app which allows visual detection classification of dog breeds using deep neural networks. To this end, the datasets must consist of images of various dog breeds and corresponding breed labels. As per the requirements of this mini-project, three datasets are described below. 
 
